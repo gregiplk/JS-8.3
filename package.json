@@ -1,0 +1,23 @@
+{
+  "name": "kodilla_java_8.3_workspace",
+  "version": "1.0.0",
+  "description": "Java8.3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregiplk/Java-8.3.git"
+  },
+  "author": "Grzegorz Izydorek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gregiplk/Java-8.3/issues"
+  },
+  "homepage": "https://github.com/gregiplk/Java-8.3#readme",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  }
+}
